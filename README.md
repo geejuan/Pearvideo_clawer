@@ -50,9 +50,11 @@
 请确认链接格式为：'https://www.pearvideo.com/video_contId'， contId为一串数字
 若报错或无法下载，请确认原视频是否已被下架
 
+视频储存在脚本所在目录
+
 ###### 开发前的配置要求
 
-requests  2.25.1
+requests  2.25.1 及以上
 
 ###### **安装步骤**
 
