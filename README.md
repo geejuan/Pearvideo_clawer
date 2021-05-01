@@ -46,7 +46,9 @@
 
 请确保已安装Python3.0及以上版本
 
-
+运行后将需要下载的梨视频链接复制粘贴到命令提示符/Terminal中
+请确认链接格式为：'https://www.pearvideo.com/video_contId'， conId为一串数字
+若报错或无法下载，请确认原视频是否已被下架
 
 ###### 开发前的配置要求
 
@@ -66,9 +68,9 @@ eg:
 ```
 filetree 
 ├── LICENSE.txt
-├── README.md
+├── README.md   你现在看到的内容
 ├── requirements
-└── main.py
+└── main.py    运行这个
 
 ```
 
@@ -109,7 +111,7 @@ Even
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/geejuan/Pearvideo_clawer/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
