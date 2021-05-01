@@ -5,7 +5,6 @@ class Pearvideo_clawer:
     def __init__(self, url):
         self.url = url
         self.contId = url.split('_')[1]  # 拿到contId
-        self.Refere = url
         self.Hearder = {
             "User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) '
                           'Chrome/90.0.4430.85 Safari/537.36 ',
