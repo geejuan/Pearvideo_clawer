@@ -63,7 +63,6 @@ git clone https://github.com/geejuan/Pearvideo_clawer.git
 ```
 
 ### 文件目录说明
-eg:
 
 ```
 filetree 
