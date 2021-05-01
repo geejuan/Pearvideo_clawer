@@ -47,7 +47,7 @@
 请确保已安装Python3.0及以上版本
 
 运行后将需要下载的梨视频链接复制粘贴到命令提示符/Terminal中
-请确认链接格式为：'https://www.pearvideo.com/video_contId'， conId为一串数字
+请确认链接格式为：'https://www.pearvideo.com/video_contId'， contId为一串数字
 若报错或无法下载，请确认原视频是否已被下架
 
 ###### 开发前的配置要求
